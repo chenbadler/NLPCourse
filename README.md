@@ -1,0 +1,2 @@
+# NLPCourse
+Technion NLP Course
